@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1666091405 source:c:\users\compu city\desktop\sheet 1 answer\main.cpp
+	<iostream>
+	<queue>
+	<map>
+	<stack>
+	<math.h>
+	<algorithm>
+	<iomanip>
+	<bits/stdc++.h>
+
